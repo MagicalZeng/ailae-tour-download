@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AiLAE Tour · 下載</title>
+<meta name="description" content="AiLAE Tour 安卓版下載。主題低空旅遊：景區導覽、學校研學、與機器人合照賺積分。">
+<meta name="theme-color" content="#0a1a18">
+<!-- 樣式全部寫在這裡：這頁會掛在 GitHub Pages 的專案路徑底下
+     （/ailae-tour-download/），外連 CSS 用絕對路徑會 404。 -->
+<style>
+  :root{
+    --ink:#122522; --muted:#7d8b87; --line:rgba(255,255,255,.14);
+    --gold:#e2aa49; --teal:#0e7372; --bg:#0a1a18;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:#fff;
+    font:16px/1.7 system-ui,-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    display:flex; flex-direction:column; align-items:center;
+    padding:48px 20px calc(48px + env(safe-area-inset-bottom));
+    min-height:100dvh;
+  }
+  main{width:min(100%,460px)}
+  .logo{
+    width:72px; height:72px; border-radius:20px; background:var(--teal);
+    display:grid; place-items:center; font:700 34px Georgia,serif; color:#fff;
+    margin:0 auto 20px;
+  }
+  h1{margin:0 0 6px; font:600 30px/1.25 Georgia,"Noto Serif TC",serif; text-align:center}
+  .sub{margin:0 0 30px; text-align:center; color:rgba(255,255,255,.62); font-size:14px}
+  .cta{
+    display:block; background:var(--gold); color:#3a2806; text-decoration:none;
+    font-weight:700; font-size:17px; text-align:center;
+    border-radius:999px; padding:17px 24px;
+    box-shadow:0 14px 34px rgba(0,0,0,.34);
+  }
+  .cta:hover{filter:brightness(1.05)}
+  .size{margin:12px 0 0; text-align:center; font-size:12px; color:rgba(255,255,255,.45)}
+  h2{margin:38px 0 14px; font-size:15px; letter-spacing:.04em; color:var(--gold)}
+  ol{margin:0; padding-left:22px}
+  li{margin-bottom:9px; font-size:14px; color:rgba(255,255,255,.82)}
+  .note{
+    margin-top:14px; background:rgba(255,255,255,.05); border:1px solid var(--line);
+    border-radius:13px; padding:14px 16px; font-size:13px; color:rgba(255,255,255,.68);
+  }
+  .specs{
+    margin-top:30px; display:grid; grid-template-columns:1fr 1fr; gap:10px;
+  }
+  .specs div{
+    background:rgba(255,255,255,.05); border:1px solid var(--line);
+    border-radius:13px; padding:13px 15px;
+  }
+  .specs b{display:block; font-size:15px}
+  .specs span{display:block; margin-top:3px; font-size:11px; color:rgba(255,255,255,.5)}
+  footer{margin-top:40px; text-align:center; font-size:11px; color:rgba(255,255,255,.35)}
+</style>
+</head>
+<body>
+<main>
+  <div class="logo">A</div>
+  <h1>AiLAE Tour</h1>
+  <p class="sub">主題低空旅遊 · 景區導覽、學校研學、與機器人合照賺積分</p>
+
+  <a class="cta" href="https://github.com/MagicalZeng/ailae-tour-download/releases/latest/download/AiLAE-Tour-v1.0.apk">
+    下載安卓版
+  </a>
+  <p class="size">v1.0 · 7.6 MB · Android 5.1 以上</p>
+
+  <h2>安裝步驟</h2>
+  <ol>
+    <li>用手機瀏覽器點上面的按鈕，下載安裝包</li>
+    <li>下載完成後點開那個檔案</li>
+    <li>系統會問「是否允許來自此來源的應用」，選<b>允許</b></li>
+    <li>裝好後桌面會出現「AiLAE Tour」</li>
+  </ol>
+
+  <div class="note">
+    第三步是所有非商店安裝的 App 都會有的一步。這個安裝包已經正式簽名，
+    不是測試版，不會被系統標成「調試應用」。
+  </div>
+
+  <div class="specs">
+    <div><b>1 個權限</b><span>只要網路，上傳合照時才問相機</span></div>
+    <div><b>全機型</b><span>安裝包沒綁 CPU 架構</span></div>
+    <div><b>7.6 MB</b><span>網頁已打包進去，離線可開</span></div>
+    <div><b>Android 5.1+</b><span>2015 年後的手機都支援</span></div>
+  </div>
+
+  <footer>5G nuMultiMedia Limited</footer>
+</main>
+</body>
+</html>

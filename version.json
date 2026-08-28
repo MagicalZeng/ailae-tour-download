@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v1.7/AiLAE-Tour.apk",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v1.8/AiLAE-Tour.apk",
   "mandatory": false,
-  "notes": "註冊不用再等驗證信，填完就好\n會擋掉臨時信箱和填錯的網域\n手機註冊照舊，不用驗證碼\n體驗卡片不再顯示價格"
+  "notes": "註冊不用再等驗證信，填完就好\n會擋掉臨時信箱和填錯的網域\n右下角新增求助入口\n管理端可以發公告給所有人\n有新版本會主動提示"
 }

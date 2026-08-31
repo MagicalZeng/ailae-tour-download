@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v2.0/AiLAE-Tour.apk",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v2.1/AiLAE-Tour.apk",
   "mandatory": false,
-  "notes": "新增航天主題，對應教育局今年的航空航天課綱\n學校頁可以看到每個團型對應哪一科、哪一單元\n新增航天主題團與五個航天景區"
+  "notes": "新增私隱政策與服務條款\n註冊時要勾選同意，未成年人須家長同意\n新增香港數碼港，不用過關的本地研學站\n九寨溝改為洽談中"
 }

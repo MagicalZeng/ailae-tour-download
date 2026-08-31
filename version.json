@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v1.9/AiLAE-Tour.apk",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v2.0/AiLAE-Tour.apk",
   "mandatory": false,
-  "notes": "積分有了兌換價：100 分折抵 $1\n積分頁補上完整的兌換規則\n分數旁邊會顯示等值多少錢\n聯絡信箱統一為 support@5gnumultimedia.com"
+  "notes": "新增航天主題，對應教育局今年的航空航天課綱\n學校頁可以看到每個團型對應哪一科、哪一單元\n新增航天主題團與五個航天景區"
 }

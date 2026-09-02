@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v2.2/AiLAE-Tour-v2.2.apk",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "url": "https://github.com/MagicalZeng/ailae-tour-download/releases/download/v2.4/AiLAE-Tour-v2.4.apk",
   "mandatory": false,
-  "notes": "帳號頁可以自己刪除帳號\n照片滿 12 個月自動清理\n推薦好友最多算 20 人\n清掉了測試用的固定簡訊驗證碼"
+  "notes": "帳號頁可以自己刪除帳號\\n照片滿 12 個月自動清理\\n推薦好友最多算 20 人\\n清掉了測試用的固定簡訊驗證碼"
 }
